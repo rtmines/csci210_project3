@@ -61,7 +61,7 @@ For Project 3, create a separate private repository specific for this project un
 
 ```
 git clone git@github.com:CSCI210Mines/project3_spring25.git
-cd project3
+cd project3_spring25
 git remote remove origin
 git remote add origin git@github.com:tolgacan/csci210_project3.git  # this is my private repo. replace it with your own private repo
 git branch -M main
